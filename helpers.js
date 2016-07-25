@@ -3,7 +3,7 @@
 var args =  inputToArray(input);
 
 // Loop through the args
-for(var i =0; i < args.length; i++) {
+for(var i = 0; i < args.length; i++) {
 
 }
 
